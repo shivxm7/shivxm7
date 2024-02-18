@@ -20,8 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **coderrshivam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BL67ZgRZSIq3yxLRzrqsbxpxU5EKRSU5/view?usp=drive_link](https://drive.google.com/file/d/1BL67ZgRZSIq3yxLRzrqsbxpxU5EKRSU5/view?usp=drive_link)
-
 - ⚡ It’s all **0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
