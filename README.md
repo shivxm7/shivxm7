@@ -6,7 +6,7 @@
 ---
 
 ## 💡 About Me
-- 🌱 Currently exploring **Full-Stack Development**, **Data Structure and Algorithms**, and **Cloud Computing (GCP)**.
+- 🌱 Currently exploring **Full-Stack Development**, **Data Structure and Algorithms**, and **Cloud Computing**.
 - 🔭 Actively building projects to enhance my problem-solving and development skills.
 - 🧑‍💻 Passionate about competitive programming, web development, and emerging AI technologies.
 
