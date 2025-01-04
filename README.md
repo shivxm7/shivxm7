@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shivxm
+# Hi there! 👋 I'm Shivam
 
 🎓 **Pursuing B.Tech in Computer Science and Engineering**  
 📍 Chandigarh Group of Colleges, CGC Landran, Mohali  
